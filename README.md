@@ -1,4 +1,4 @@
-# GobangChess_AI3.0
+# GobangChess_AI3.5
 Starwing - 五子棋AI3.5版. 能够进行自我对弈并从中学习。
 
 代码结构与3.0相同
